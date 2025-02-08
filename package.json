@@ -13,7 +13,7 @@
     "socket.io": "^4.5.4"
   },
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "author": "regeid",
   "license": "MIT"
